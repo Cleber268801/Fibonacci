@@ -1,0 +1,15 @@
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.csproj.AssemblyReference.cache
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.AssemblyInfoInputs.cache
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.AssemblyInfo.cs
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.csproj.CoreCompileInputs.cache
+C:\Users\clebe\source\repos\Refatorar\Refatorar\bin\Debug\net6.0\Refatorar.exe
+C:\Users\clebe\source\repos\Refatorar\Refatorar\bin\Debug\net6.0\Refatorar.deps.json
+C:\Users\clebe\source\repos\Refatorar\Refatorar\bin\Debug\net6.0\Refatorar.runtimeconfig.json
+C:\Users\clebe\source\repos\Refatorar\Refatorar\bin\Debug\net6.0\Refatorar.dll
+C:\Users\clebe\source\repos\Refatorar\Refatorar\bin\Debug\net6.0\Refatorar.pdb
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.dll
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\refint\Refatorar.dll
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.pdb
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\Refatorar.genruntimeconfig.cache
+C:\Users\clebe\source\repos\Refatorar\Refatorar\obj\Debug\net6.0\ref\Refatorar.dll
